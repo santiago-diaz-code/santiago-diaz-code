@@ -5,8 +5,8 @@ Soy estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN*
 ## 📈 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=santiago-diaz-code&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub de Santiago" height="180" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=santiago-diaz-code&layout=compact&theme=radical" alt="Lenguajes más usados por Santiago" height="180" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=santiago-diaz-code&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Santiago" height="180" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=santiago-diaz-code&layout=compact&theme=radical&include_all_commits=true&count_private=true" alt="Lenguajes más usados por Santiago" height="180" />
 </p>
 
 ## 🛠️ Tecnologías y Herramientas con las que trabajo
