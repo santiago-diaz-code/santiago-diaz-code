@@ -1,16 +1,38 @@
-## Hi there 👋
+## ¡Hola! Soy Santiago Díaz :wave:
 
-<!--
-**santiago-diaz-code/santiago-diaz-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN** (modalidad a distancia). Actualmente estoy fortaleciendo conocimientos en fundamentos y lógica de la programación, con el objetivo de formarme y especializarme mediante el estudio y la práctica como **Desarrollador Backend**. 
 
-Here are some ideas to get you started:
+## 📈 Mis Estadísticas en GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <!-- Tarjeta de Estadísticas Generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=santiago-diaz-code&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub de Santiago" height="180" />
+  
+  <!-- Tarjeta de Lenguajes Más Usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-diaz-code&layout=compact&theme=radical" alt="Lenguajes más usados por Santiago" height="180" />
+</p>
+
+## 🛠️ Tecnologías y Herramientas con las que trabajo
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,py,git,github,vscode" />
+  </a>
+</p>
+## 🫂 Conectemos en redes sociales
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/luis-santiago-diaz-/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <!-- Gmail -->
+  <a href="mailto:diazsantiagoluis01@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <!-- Instagram -->
+  <a href="https://instagram.com/lsantiagodiaz_" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
